@@ -1,0 +1,6 @@
+framework module Pods_ScenarioTesterTests {
+  umbrella header "Pods-ScenarioTesterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
