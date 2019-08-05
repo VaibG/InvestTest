@@ -8,7 +8,7 @@ Using an API called Aladdin by Blackrock, we allow the user to select a virtual 
 We built the mobile application using XCode, specifically so that users could end up challenging their friends easily and we wanted to learn iOS development as a team. We used BlackRock's API for the portfolio data, and used CocoaPods such as AlamoFire and SwiftyJSON for parsing the data. Additionally, we used SkyFloatingTextFields to improve the UI and the Charts pod to display pie charts and line charts with the data from the API.
 
 ## Screenshots
-| <img src="screenshots/invest-test.png" width="200">        | <img src="screenshots/invest-test-1.png" width="200">        | <img src="screenshots/invest-test-2.png" width="200">           | <img src="screenshots/invest-test3.png" width="200">  |
+| <img src="screenshots/invest-test.png" width="200">        | <img src="screenshots/invest-test-1.png" width="200">        | <img src="screenshots/invest-test-2.png" width="200">           | <img src="screenshots/invest-test-3.png" width="200">  |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | Create Portfolio | View Breakdown | Portfolio progress | Leaderboard |
 
